@@ -1,0 +1,15 @@
+[main] INFO  com.maven.logging_epamtask.Interest  - Enter the principal amount :
+[main] INFO  com.maven.logging_epamtask.Interest  - Enter the time period :
+[main] INFO  com.maven.logging_epamtask.Interest  - Enter the rate of interest per annum :
+[main] INFO  com.maven.logging_epamtask.Interest  - Simple Interest :384.0
+[main] INFO  com.maven.logging_epamtask.Interest  - Compound Interest :510.55812616912954
+[main] INFO  com.maven.logging_epamtask.Interest  - -------------------------------------
+[main] INFO  com.maven.logging_epamtask.Construction  - CONSTRUCTION COST ESTIMATION
+[main] INFO  com.maven.logging_epamtask.Construction  - Variants Available
+[main] INFO  com.maven.logging_epamtask.Construction  - 1. Construction with standard materials
+[main] INFO  com.maven.logging_epamtask.Construction  - 2. Construction with above standard materials
+[main] INFO  com.maven.logging_epamtask.Construction  - 3. Construction with high standard materials
+[main] INFO  com.maven.logging_epamtask.Construction  - 4. Construction with high standard materials and fully automated
+[main] INFO  com.maven.logging_epamtask.Construction  - Enter your choice (1-4): 
+[main] INFO  com.maven.logging_epamtask.Construction  - Enter the area of house: 
+[main] INFO  com.maven.logging_epamtask.Construction  - Cost =93600.0 INR
